@@ -1,6 +1,6 @@
 - description: null
   label: "Flood Insurance"
-  name: "flood-insurance"
+  name: "flood_insurance"
   sort: 1
   listed: true
   hasRoute: true

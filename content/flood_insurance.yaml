@@ -1,0 +1,31 @@
+- id: "/flood_insurance"
+  web:
+    metaDescription: "Flood insurance is the only type of coverage that can pay for damage to a home caused by storm surges. ✓ Get a quote & save on flood insurance today!"
+    metaTitle: "Is flood insurance required?"
+    metaKeywords: null
+    metaLinkText: "Flood Insurance"
+    pathPart: "_index"
+    path: "/flood_insurance/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Flood insurance"
+    sub_header: "Protect your home from flood damage. Get a flood insurance quote online today."
+    featured_image: "3-f894d4e-46j882"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: "<script type=\\\"application/ld+json\\\">\\n{\\n  \\\"@context\\\": \\\"https://schema.org\\\",\\n  \\\"@type\\\": \\\"FAQPage\\\",\\n  \\\"mainEntity\\\": [{\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"Is all flood insurance through FEMA?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"No, FEMA's National Flood Insurance Program isn't the only option for flood insurance. Private market flood insurance providers, like Kin, are available and usually much more affordable.\\\"\\n    }\\n  }, {\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"What does flood insurance pay for?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"Flood insurance can pay to repair or replace: electrical, heating, cooling, and plumbing systems; appliances, including refrigerators, stoves, washers, and dryers; carpeting and window treatments; built-in bookcases, cabinets, and paneling; foundation, walls, anchorage systems, and staircases attached to the structure; a detached garage; personal property; valuables, like artwork and furs, up to $2,500 in value.\\\"\\n    }\\n  }, {\\n    \\\"@type\\\": \\\"Question\\\",\\n    \\\"name\\\": \\\"Who needs flood insurance?\\\",\\n    \\\"acceptedAnswer\\\": {\\n      \\\"@type\\\": \\\"Answer\\\",\\n      \\\"text\\\": \\\"If your home is in a high-risk flood zone or Special Flood Hazard Areas (SFHAs) and you have a mortgage through a federally regulated lender, you're required to have flood insurance.\\\"\\n    }\\n  }]\\n}\\n</script>"
+    jump_nav: '<ul><li><a href="#cost">How much does flood insurance cost?</a></li><li><a href="#what">What is flood insurance?</a></li><li><a href="#how-much-flood-insurance-do-i-need">How much flood insurance do you need?</a></li><li><a href="#when-should-homeowners-buy-flood-insurance">When should I get flood insurance?</a></li></ul>'
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""

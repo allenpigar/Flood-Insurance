@@ -4,7 +4,7 @@
     metaTitle: "Is flood insurance required?"
     metaKeywords: null
     metaLinkText: "Flood Insurance"
-    pathPart: "_index"
+    pathPart: "flood_insurance"
     path: "/flood_insurance/"
     parent: "/"
     sitemapPriority: -2
